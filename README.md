@@ -1,4 +1,4 @@
-# IoTProject_Group3, Greenhouse Humidity and Temperature Sensing System 
+# Greenhouse Humidity and Temperature Sensing System 
 
 - Demo Video Link, consists of the system working as an embedded system, Project Progress<br> 
 - Final IOT Presentation, the Final Presentation of the project<br>
